@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: donkeycar_bridge
+Version: 0.1.0
+Summary: Bridge between Donkeycar API and CPM Lab
+Author: RIDE Project
+Author-email: ride@example.com
+Keywords: donkeycar,cpm,autonomous vehicles
+Requires-Python: >=3.7
+Requires-Dist: donkeycar>=4.3.0
+Requires-Dist: numpy>=1.18.5
+Requires-Dist: pybind11>=2.6.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,9 @@
+[submodule "cpm_lab"]
+	path = cpm_lab
+	url = https://github.com/embedded-software-laboratory/cpm_lab.git
+[submodule "gym-donkeycar"]
+	path = gym-donkeycar
+	url = https://github.com/tawnkramer/gym-donkeycar
+[submodule "donkeycar"]
+	path = donkeycar
+	url = https://github.com/autorope/donkeycar

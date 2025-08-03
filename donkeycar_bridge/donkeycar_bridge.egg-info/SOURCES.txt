@@ -1,0 +1,7 @@
+README.md
+setup.py
+donkeycar_bridge.egg-info/PKG-INFO
+donkeycar_bridge.egg-info/SOURCES.txt
+donkeycar_bridge.egg-info/dependency_links.txt
+donkeycar_bridge.egg-info/requires.txt
+donkeycar_bridge.egg-info/top_level.txt
