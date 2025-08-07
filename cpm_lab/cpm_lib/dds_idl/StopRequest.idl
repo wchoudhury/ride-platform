@@ -1,0 +1,18 @@
+/*
+ * StopRequest is sent from a HLC to the LCC, stop request to stop everything,
+ * e.g. because it failed and there is danger of collision.
+ */
+
+#ifndef STOPREQUEST_IDL
+#define STOPREQUEST_IDL
+
+/**
+ * \struct StopRequest
+ * \brief TODO
+ * \ingroup cpmlib_idl
+ */
+struct StopRequest {
+    //! TODO
+    octet vehicle_id; //@key
+};
+#endif
