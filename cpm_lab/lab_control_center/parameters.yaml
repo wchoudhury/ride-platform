@@ -1,0 +1,24 @@
+parameters:
+  bool:
+    {}
+  uint64_t:
+    middleware_period_ms:
+      value: 400
+      info: "The period with which the middleware calls the HLC, in milliseconds"
+  int:
+    {}
+  double:
+    trajectory_controller/lateral_D_gain:
+      value: 4
+      info: ""
+    trajectory_controller/lateral_P_gain:
+      value: 7
+      info: ""
+  string:
+    {}
+  ints:
+    active_vehicle_ids:
+        value: []
+        info: "Currently active vehicle ids"
+  doubles:
+    {}
